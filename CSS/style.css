@@ -1,0 +1,202 @@
+body {
+  font-family: "Montserrat";
+  margin: 0;
+  overflow-x: hidden;
+  font-weight: bold;
+}
+h3 {
+  font-weight: bold;
+}
+
+.col-size {
+  padding: 0;
+}
+#Front-page {
+  background-color: #fff2eb;
+}
+
+/* front page content */
+
+.header-text {
+  padding: 7% 20%;
+}
+.col-sizee {
+  height: 200px;
+}
+.front-2 p {
+  margin: 15% 0 1% 0;
+  color: #d7a68ce0;
+  font-size: 19px;
+}
+.front-2 h4 {
+  margin: 15% 0 0 0;
+  color: #d7a68ce0;
+}
+.front-2 h1 {
+  margin: 7% 15%;
+  font-family: "Montserrat-light";
+  color: #d7a68ce0;
+  font-size: 54px;
+}
+/* front page content */
+
+/* front-page Image */
+.image-edit {
+  width: 100%;
+
+  height: 100%;
+}
+/* front-page Image */
+
+.nav-link:hover {
+  color: #d7a68ce0;
+}
+
+#about-us {
+  background-color: #fcd5c0e0;
+  text-align: center;
+}
+
+#about-us h2 {
+  padding-top: 7%;
+  font-weight: bolder;
+}
+.aboutus-text {
+  padding: 5% 15% 3% 15%;
+  font-size: 24px;
+  font-family: "Montserrat-bold";
+  font-weight: lighter;
+}
+.leg-text {
+  padding-bottom: 2%;
+  font-size: 20px;
+}
+.med-heading {
+  font-family: "Montserrat-light";
+}
+.button-space {
+  margin-bottom: 8%;
+}
+#what-we-do {
+  padding: 7% 12%;
+}
+.card-spacing {
+  padding: 30px;
+}
+
+.card-edit {
+  border: none;
+  text-align: center;
+}
+
+.card-edit:hover {
+  /* border: 2px solid; */
+  box-shadow: 12px 12px 2px 1px #fff2eb;
+}
+.card-body h3 {
+  color: #785543cb;
+  font-family: "Montserrat-light";
+}
+#services {
+  text-align: center;
+}
+
+div.container {
+  text-align: center;
+}
+
+.list-centering {
+  display: inline;
+  text-align: left;
+  list-style: none;
+  padding: 7% 15%;
+  list-style-position: outside;
+}
+.service-sec {
+  background-color: #fcd5c0e0;
+  padding: 15% 15%;
+}
+
+.service-sec h5 {
+  color: #2c1c15cb;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+.list-centering li:before {
+  content: "✓ ";
+}
+.service-sec h2 {
+  font-weight: bolder;
+  padding-bottom: 10px;
+}
+.h5-spacing {
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+.control {
+  padding: 0% 15%;
+}
+
+#feedback {
+  text-align: center;
+}
+.food {
+  padding: 5% 5% 13% 5%;
+}
+
+#feedback h2 {
+  padding: 13% 15% 1% 15%;
+  font-family: "Montserrat";
+  font-weight: lighter;
+}
+.feed-foot {
+  color: #785543cb;
+  font-weight: bold;
+}
+.feed-padding {
+  padding: 0 2%;
+}
+#contact {
+  background-color: #fcd5c0e0;
+  position: relative;
+  padding-bottom: 20px;
+  width: 100%;
+}
+.brandish {
+  padding: 3% 0 25% 55px;
+}
+
+.footer-header {
+  margin-bottom: 20px;
+}
+
+.footer-text {
+  margin-bottom: 40px;
+}
+.brand-space {
+  margin: 0 10px 0 10px;
+}
+
+.brand-space:hover {
+  color: blue;
+}
+.footer-container {
+  width: 100%;
+}
+/* .footer-con {
+  padding-left: 70px;
+  padding-right: 30px;
+} */
+.foot-leg {
+  margin-bottom: 35px;
+  position: relative;
+}
+
+.emee {
+  position: relative;
+}
+
+.meater {
+  margin: 0 66px;
+}
